@@ -32,22 +32,34 @@ philosophy of "learn, share, and repeat"**
 
 ## 🚀 Tech Stack  
 
-### 🖥️ Languages & Frameworks  
+### 🖥️ Frontend & Web Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,react-native,nodejs,graphql,java,spring,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,graphql,java,spring,python,php,laravel" />
+</p>
+
+### 🖥️ Mobile Stacks  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react-native,flutter,nodejs,graphql,java,spring,python,php,laravel" />
+</p>
+
+### 🖥️ Languges & Backend  Frameworks  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs" />
 </p>
 
 ### 💾 Databases  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### 🔧 Tools & DevOps  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,nginx,kafka,vscode" />
 </p>
 
 ---
@@ -55,11 +67,11 @@ philosophy of "learn, share, and repeat"**
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=momocoder14&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=momocoder14&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momocoder14&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
@@ -67,8 +79,8 @@ philosophy of "learn, share, and repeat"**
 ## 🌎 Connect With Me  
 
 <p align="left">
-  <a href="https://github.com/momocoder14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/momocoder14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ZaynSaul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ZaynSaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://codewithmo.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
