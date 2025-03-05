@@ -41,7 +41,7 @@ philosophy of "learn, share, and repeat"**
 ### 🖥️ Mobile Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rn,flutter,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,react-native" />
 </p>
 
 ### 🖥️ Languges & Backend  Frameworks  
