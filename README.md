@@ -35,25 +35,25 @@ philosophy of "learn, share, and repeat"**
 ### 🖥️ Frontend & Web Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,graphql,java,spring,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,tailwind" />
 </p>
 
 ### 🖥️ Mobile Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react-native,flutter,nodejs,graphql,java,spring,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=react-native,flutter,kotlin" />
 </p>
 
 ### 🖥️ Languges & Backend  Frameworks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs,go" />
 </p>
 
 ### 💾 Databases  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 ### 🔧 Tools & DevOps  
