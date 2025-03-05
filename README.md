@@ -47,7 +47,7 @@ philosophy of "learn, share, and repeat"**
 ### 🖥️ Languges & Backend  Frameworks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs,go" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs,go,cs,dotnet" />
 </p>
 
 ### 💾 Databases  
