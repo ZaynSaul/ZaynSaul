@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=800&lines=Full-Stack+Software+Engineer;With+a+passion+for+learning,+sharing,+and+continuous+improvement;Frontend:+React+js+%7C+Next+js+%7C+React+Native+%7C+Flutter;Backend:+Node+js+%7C+Express+js+%7C+Laravel+%7C+Spring+Boot" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=700&lines=Full-Stack+Software+Engineer;With+a+passion+for+learning,+sharing,+and+continuous+improvement;Frontend:+React+js+%7C+Next+js+%7C+React+Native+%7C+Flutter;Backend:+Node+js+%7C+Express+js+%7C+Laravel+%7C+Spring+Boot" alt="Typing animation">
 </p>
 
 ---
