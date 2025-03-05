@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full-Stack+Software+Engineer;Eager+Learner+%26+Problem+Solver;Next.js+%7C+React+Native+%7C+Spring+Boot;Building+%26+Improving+Every+Day!" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full-Stack+Software+Engineer;+With+a+passion+for+learning,+sharing,+and+continuous+improvement;+Building+%26+Improving+Every+Day!;Frontend:+React+js+%7C+Next+js+%7C+React+Native+%7C+Flutter;Backend:+Node+js+%7C+Express+js+%7C+Laravel+%7C+Spring+bBoot" alt="Typing animation">
 </p>
 
 ---
@@ -17,16 +17,16 @@
 
 I’m a dedicated **senior software engineer** with **more than 3years of experience**, striving to be a reliable
 asset to every team. With a passion for **learning, sharing, and continuous improvement, I embrace the
-philosophy of "learn, share, and repeat**." Described by peers as a builder of quality software, I value the
+philosophy of "learn, share, and repeat"**. Described by peers as a builder of quality software, I value the
 entire development process and enjoys teaching others along the way. My commitment to fostering
 collaboration and knowledge sharing makes me an influential presence in the tech community.
 
-- ❤️ **Coding is my passion, learning is my superpower**  
-- 🌱 **Constantly improving & exploring new technologies**  
-- 💡 **I thrive on solving problems & creating impactful solutions**  
+- ❤️ **Coding and solving tech related problems, is my superpower**  
+- 🌱 **I embrace the
+philosophy of "learn, share, and repeat"**  
+- 💡 **Described by peers as a builder of quality software**  
 - 🏗️ **Building and experimenting with full-stack applications**  
-- 💬 **Ask me anything** [here](https://github.com/momocoder14/momocoder14/issues)  
-- 🌐 **Portfolio:** [CWM](http://codewithmo.com/)  
+- 💬 **Ask me anything** [here](https://github.com/ZaynSaul/ZaynSaul/issues)
 
 ---
 
@@ -34,19 +34,19 @@ collaboration and knowledge sharing makes me an influential presence in the tech
 
 ### 🖥️ Languages & Frameworks  
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,react-native,nodejs,graphql,java,spring,python,php,laravel" />
 </p>
 
 ### 💾 Databases  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,mongodb" />
 </p>
 
 ### 🔧 Tools & DevOps  
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,nginx,vscode" />
 </p>
 
