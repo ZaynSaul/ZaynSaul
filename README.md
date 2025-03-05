@@ -35,19 +35,19 @@ philosophy of "learn, share, and repeat"**
 ### 🖥️ Frontend & Web Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,tailwind,figma" />
 </p>
 
 ### 🖥️ Mobile Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react-native,flutter,kotlin" />
+  <img src="https://skillicons.dev/icons?i=rn,flutter,kotlin" />
 </p>
 
 ### 🖥️ Languges & Backend  Frameworks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,spring,python,php,laravel,nestjs,go,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,java,spring,python,php,laravel,go,cs,dotnet" />
 </p>
 
 ### 💾 Databases  
@@ -80,7 +80,7 @@ philosophy of "learn, share, and repeat"**
 
 <p align="left">
   <a href="https://github.com/ZaynSaul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ZaynSaul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sulayman-a-jallow-3091201b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="http://codewithmo.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
