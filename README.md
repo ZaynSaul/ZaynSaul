@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hey there, I'm <code>Momocoder</code>! 🚀👨‍💻  
+  Hey there, I'm <code>Dev Saul</code>! 🚀👨‍💻  
 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <strong>An entry-level Software Engineer with an endless passion for learning & growth</strong>
+  <strong>A Senior Software Engineer with an endless passion for learning & growth</strong>
 </p>
 
 <p align="center">
@@ -13,9 +13,13 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me    
 
-I am an **entry-level Software Engineer** with a **deep passion for learning, experimenting, and improving**. I love diving into **new technologies, solving complex problems, and refining my skills** to build efficient, scalable, and user-friendly applications. Every challenge is an opportunity to **grow**, and I embrace each step of the journey toward becoming a **highly skilled engineer**.  
+I’m a dedicated **senior software engineer** with **more than 3years of experience**, striving to be a reliable
+asset to every team. With a passion for **learning, sharing, and continuous improvement, I embrace the
+philosophy of "learn, share, and repeat**." Described by peers as a builder of quality software, I value the
+entire development process and enjoys teaching others along the way. My commitment to fostering
+collaboration and knowledge sharing makes me an influential presence in the tech community.
 
 - ❤️ **Coding is my passion, learning is my superpower**  
 - 🌱 **Constantly improving & exploring new technologies**  
