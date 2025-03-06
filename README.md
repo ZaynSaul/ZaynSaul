@@ -70,7 +70,7 @@ philosophy of "learn, share, and repeat"**
   <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=onedark" alt="GitHub Stats" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
   <br>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=onedark" alt="Profile Summary" />
