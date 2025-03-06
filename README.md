@@ -41,7 +41,7 @@ philosophy of "learn, share, and repeat"**
 ### 🖥️ Mobile Stacks  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,react-native" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin" />
 </p>
 
 ### 🖥️ Languges & Backend  Frameworks  
@@ -67,10 +67,10 @@ philosophy of "learn, share, and repeat"**
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=onedark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=onedark" alt="GitHub Stats" />
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" />
   <br>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=onedark" alt="Profile Summary" />
