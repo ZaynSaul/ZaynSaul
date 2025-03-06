@@ -67,13 +67,11 @@ philosophy of "learn, share, and repeat"**
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=onedark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=momocoder14&show_icons=true&theme=onedark" alt="GitHub Stats" />
   <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=momocoder14&theme=onedark" alt="GitHub Streak" />
   <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-  <br>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=onedark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momocoder14&theme=onedark" alt="Profile Summary" />
 </p>
 
 ---
@@ -83,7 +81,6 @@ philosophy of "learn, share, and repeat"**
 <p align="left">
   <a href="https://github.com/ZaynSaul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://linkedin.com/in/sulayman-a-jallow-3091201b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="http://codewithmo.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
