@@ -67,11 +67,13 @@ philosophy of "learn, share, and repeat"**
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaynSaul&show_icons=true&theme=onedark&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZaynSaul&theme=onedark" alt="GitHub Streak" />
+  <br>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZaynSaul&theme=onedark" alt="Profile Summary" />
 </p>
 
 ---
