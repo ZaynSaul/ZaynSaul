@@ -69,7 +69,7 @@ philosophy of "learn, share, and repeat"**
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=momocoder14&show_icons=true&theme=onedark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=momocoder14&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=momocoder14&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momocoder14&theme=onedark" alt="Profile Summary" />
 </p>
