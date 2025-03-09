@@ -1,7 +1,7 @@
 <h1 align="center">
   Hey there, I'm <code>Dev Saul</code>! 🚀👨‍💻  
 </h1>
-
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   <strong>A Senior Software Engineer with an endless passion for building scalable web and mobile applications</strong>
