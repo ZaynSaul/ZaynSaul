@@ -4,7 +4,8 @@
  
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  <strong>A Senior Software Engineer with an endless passion for building scalable web and mobile applications</strong>
+  <strong>Welcome to my GitHub profile!  
+Here you'll find a collection of my projects, experiments, and contributions to the open-source community</strong>
 </p>
 
 <p align="center">
@@ -13,13 +14,10 @@
 
 ---
 
-## 🚀 About Me    
+## 🚀 About Me   
+I'm a dedicated **senior software engineer** with **more than 3 years of experience**, striving to be a reliable asset to every team. With a passion for **learning, sharing, and continuous improvement**, I embrace the philosophy of _"learn, share, and repeat."_ Described by peers as a builder of quality software, I value the entire development process and enjoy teaching others along the way. My commitment to fostering collaboration and knowledge sharing makes me an influential presence in the tech community.
 
-I’m a dedicated **senior software engineer** with **more than 3years of experience**, striving to be a reliable
-asset to every team. With a passion for **learning, sharing, and continuous improvement, I embrace the
-philosophy of "learn, share, and repeat"**. Described by peers as a builder of quality software, I value the
-entire development process and enjoys teaching others along the way. My commitment to fostering
-collaboration and knowledge sharing makes me an influential presence in the tech community.
+I'm also passionate about technology and building impactful software solutions. I enjoy exploring new tools, frameworks, and collaborating with other developers to solve real-world problems.
 
 - ❤️ **Coding and solving tech related problems, is my superpower**  
 - 🌱 **I embrace the
