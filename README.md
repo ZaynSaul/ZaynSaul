@@ -15,9 +15,9 @@ Here you'll find a collection of my projects, experiments, and contributions to 
 ---
 
 ## 🚀 About Me   
-I'm a dedicated **software engineer** with **more than 3 years of experience**, striving to be a reliable asset to every team. With a passion for **learning, sharing, and continuous improvement**, I embrace the philosophy of _"learn, share, and repeat."_ Described by peers as a builder of quality software, I value the entire development process and enjoy teaching others along the way. My commitment to fostering collaboration and knowledge sharing makes me an influential presence in the tech community.
+I'm a dedicated **software engineer** with **more than 3 years of experience**. I love building quality software, learning new things, and sharing knowledge with others. My motto is: _"learn, share, and repeat."_
 
-I'm also passionate about technology and building impactful software solutions. I enjoy exploring new tools, frameworks, and collaborating with other developers to solve real-world problems.
+I enjoy working with teams, exploring new tools and technologies, and helping others grow. I'm passionate about creating software that makes a real impact.
 
 - ❤️ **Coding and solving tech related problems, is my superpower**  
 - 🌱 **I embrace the
