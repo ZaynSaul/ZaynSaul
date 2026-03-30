@@ -15,7 +15,7 @@ Here you'll find a collection of my projects, experiments, and contributions to 
 ---
 
 ## 🚀 About Me   
-I'm a dedicated **software engineer** with **more than 3 years of experience**. I love building quality software, learning new things, and sharing knowledge with others. My motto is: _"learn, share, and repeat."_
+I'm a dedicated **software engineer** with **more than 4 years of experience**. I love building quality software, learning new things, and sharing knowledge with others. My motto is: _"learn, share, and repeat."_
 
 I enjoy working with teams, exploring new tools and technologies, and helping others grow. I'm passionate about creating software that makes a real impact.
 
